@@ -11,7 +11,6 @@ import android.widget.Button;
 import android.widget.EditText;
 
 //전자정보통신대학 컴퓨터공학부 20093322 이승준
-//전자정보통신대학 컴퓨터공학부 20093322 이승준2
 
 public class CallPhoneActivity extends Activity {
 	private Button[] butArr;
